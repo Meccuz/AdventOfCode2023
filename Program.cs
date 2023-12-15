@@ -6,7 +6,7 @@ namespace AdventOfCode2023
     {
         static void Main(string[] args)
         {
-            Day12.Run();
+            Day13.Run();
         }
     }
 }
